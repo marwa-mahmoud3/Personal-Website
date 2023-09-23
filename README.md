@@ -4,6 +4,8 @@ Technologies Use HTML, CSS, Bootstrap, Javascript
 
 https://imsakhr.com/
 
+![article](https://github.com/marwa-mahmoud3/Personal-Website/assets/58340861/991f3f89-444c-4d0f-9181-00cf6b12c96e)
+![articles](https://github.com/marwa-mahmoud3/Personal-Website/assets/58340861/718e0d23-7e8d-4ccb-86c2-f596f8ca18ef)
 ![Projects1](https://github.com/marwa-mahmoud3/Personal-Website/assets/58340861/8a03f179-266e-446a-beaf-22a3048b22e3)
 ![Projects2](https://github.com/marwa-mahmoud3/Personal-Website/assets/58340861/85709a1f-3773-4f9a-a28e-621822787482)
 ![Projects3](https://github.com/marwa-mahmoud3/Personal-Website/assets/58340861/c69ca6a1-0b02-4859-9724-4a5200b5a288)
